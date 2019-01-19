@@ -1,7 +1,10 @@
 
 
 function internalFunctions(){
-    
+    window.onresize = function()
+    {
+    document.location.reload(true);
+    }
     
     
     setTimeout(function() {
@@ -34,7 +37,7 @@ function internalFunctions(){
     $("#fade-in div").delay(2400).animate({ opacity: 1 }, 700);
 
 
-
+    
 
 
 
