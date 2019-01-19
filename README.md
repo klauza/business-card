@@ -5,3 +5,4 @@
  - gitignore edited
  - added background
  - fixed flickering text
+
