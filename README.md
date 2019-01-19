@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-# portfolio
-=======
-# portfolio__main
-The core repo of my portfolio
->>>>>>> added all files
+##The core repo of my portfolio :+1:
+<br/><br/>
+**ver.1.4**
+<br/>
+ - gitignore edited
+ - added background
+ - fixed flickering text
