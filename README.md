@@ -1,4 +1,4 @@
-##The core repo of my portfolio :+1:
+## The core repo of my portfolio :+1:
 <br/><br/>
 **ver.1.4**
 <br/>
