@@ -58,6 +58,22 @@ body{
 }
 
 
+.holder{
+
+
+
+    background: linear-gradient(to bottom, #8cbea9 0%,#91ceb5 33%,#91ceb5 66%,#c4ffe6 100%);
+    clip-path: polygon(20% 0%, 80% 0, 100% 100%, 80% 100%, 70% 50%, 30% 50%, 20% 100%, 0 100%);
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 200px;
+    height: 40px;
+}
+
+
+
 /* ----------------------------  BOX 1 top left---------------------------- */
 .box1{
     width: 585px;
