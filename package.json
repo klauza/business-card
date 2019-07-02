@@ -1,15 +1,17 @@
 {
   "name": "business-card",
   "version": "1.0.0",
-  "description": "",
+  "description": "business-card",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js"
   },
-  "keywords": [],
+  "keywords": [
+    "business-card"
+  ],
   "author": "klauza",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
@@ -19,11 +21,9 @@
     "file-loader": "^4.0.0",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
-    "jquery": "^3.4.1",
     "mini-css-extract-plugin": "^0.7.0",
     "node-sass": "^4.12.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
-    "popper.js": "^1.15.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.35.2",
@@ -31,6 +31,7 @@
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
-    "bootstrap": "^4.3.1"
+    "core-js": "^3.1.4",
+    "regenerator-runtime": "^0.13.2"
   }
 }
